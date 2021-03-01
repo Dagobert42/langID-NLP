@@ -1,5 +1,5 @@
 # langID-NLP
-Project: Language Identification for Natural Language Processing
+Project: Language Identification
 
 This project concerns itself with a Natural Language Processing ("NLP") system which is able to identify the language of a given text. It is part of the examination in the lecture on "Advanced Natural Language Processing" of the M. Sc. Cognitive Systems at the University of Potsdam.
 
